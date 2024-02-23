@@ -1,4 +1,3 @@
-0-fizzbuzz.py
 #!/usr/bin/node
 /*
     Print a square with the character #
